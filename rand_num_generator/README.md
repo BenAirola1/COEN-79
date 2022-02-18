@@ -1,1 +1,1 @@
-This program generates a pseudo-random number generator.
+This program generates a pseudo-random number.
