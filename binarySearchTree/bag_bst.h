@@ -1,6 +1,5 @@
 // FILE: bag_bst.h (part of the namespace coen79_lab9)
 // Behnam Dezfouli, COEN, SCU
-// BENJAMIN AIROLA
 //
 // TEMPLATE CLASS PROVIDED: bag<Item>
 //     (a container template class for a collection of items)
